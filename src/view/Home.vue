@@ -1,3 +1,4 @@
+<script src="../api/homeApi.js"></script>
 <template>
   <div>
     <h1>hello word</h1>
